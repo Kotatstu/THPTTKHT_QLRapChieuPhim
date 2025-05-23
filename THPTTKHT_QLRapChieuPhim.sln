@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "THPTTKHT_QLRapChieuPhim", "THPTTKHT_QLRapChieuPhim\THPTTKHT_QLRapChieuPhim.csproj", "{32A2B38C-B195-4621-931D-0CB480704100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32A2B38C-B195-4621-931D-0CB480704100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A2B38C-B195-4621-931D-0CB480704100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A2B38C-B195-4621-931D-0CB480704100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A2B38C-B195-4621-931D-0CB480704100}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {616EE2E8-FB24-4A35-ACE4-2620C721D000}
+	EndGlobalSection
+EndGlobal
